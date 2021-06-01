@@ -1,0 +1,9 @@
+Building MeowCoin
+
+See doc/readme-qt.rst for instructions on building meowcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MeowCoin.
+
+See doc/build-*.txt for instructions on building meowcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of MeowCoin.
